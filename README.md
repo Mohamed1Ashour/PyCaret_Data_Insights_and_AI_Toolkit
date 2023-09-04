@@ -5,7 +5,7 @@ This Python script represents a data exploration and analysis tool built using t
 The PyCaret Data Insights and AI Toolkit is designed to simplify and streamline the process of exploring and understanding datasets. It provides a user-friendly interface for data analysis and visualization tasks, making it accessible to users with varying levels of expertise in data science.
 
 # Video
-Link::
+Link ==>  ``` https://www.linkedin.com/feed/update/urn:li:activity:7104589870475489281/     ```
 
 # Setup
 Before using the toolkit, ensure that you have the necessary dependencies installed. You can install them using the provided requirements.txt file:
