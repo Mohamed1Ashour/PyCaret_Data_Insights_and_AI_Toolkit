@@ -9,4 +9,6 @@ The PyCaret Data Insights and AI Toolkit is designed to simplify and streamline 
 
 # Setup
 Before using the toolkit, ensure that you have the necessary dependencies installed. You can install them using the provided requirements.txt file:
-'''pip install -r requirements.txt'''
+'''
+pip install -r requirements.txt
+'''
